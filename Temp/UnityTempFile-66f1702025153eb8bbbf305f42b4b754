@@ -317,4 +317,5 @@
 "Assets/Script/AddPlayerControlled.cs"
 "Assets/Script/CountDownTimer.cs"
 "Assets/Script/PlayerFollow.cs"
+"Assets/Script/PlayerOff.cs"
 "Assets/Script/TransformPositions.cs"
