@@ -64,6 +64,7 @@
      <Compile Include="Assets\race-track-lake\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
      <Compile Include="Assets\Script\AddConstantVelocity.cs" />
      <Compile Include="Assets\Script\AddPlayerControlled.cs" />
+     <Compile Include="Assets\Script\AudioManager.cs" />
      <Compile Include="Assets\Script\CountDownTimer.cs" />
      <Compile Include="Assets\Script\PlayerFollow.cs" />
      <Compile Include="Assets\Script\PlayerOff.cs" />
