@@ -1,12 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class CountDownTimer : MonoBehaviour
 {
     float currentTime = 0f;
-    float startingTime = 180f;
+    float startingTime = 10f;
 
     [SerializeField] Text countDownText;
 
@@ -25,6 +26,7 @@ public class CountDownTimer : MonoBehaviour
         if (currentTime <= 0)
         {
             currentTime = 0;
+            SceneManager.LoadScene("Scene 2 Lite");
         }
     }
 }
