@@ -26,7 +26,7 @@ public class CountDownTimer : MonoBehaviour
         if (currentTime <= 0)
         {
             currentTime = 0;
-            SceneManager.LoadScene("Scene 2 Lite");
+            SceneManager.LoadScene("MainMenu");
         }
     }
 }

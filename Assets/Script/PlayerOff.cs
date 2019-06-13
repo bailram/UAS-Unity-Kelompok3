@@ -5,11 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerOff : MonoBehaviour
 {
-    // private void OnTriggerEnter(BoxCollider2D other)
-    // {
-    //     if (other.tag == "Player")
-    //         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    // }
+
     [SerializeField]
     string strTag;
 
