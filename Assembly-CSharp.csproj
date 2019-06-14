@@ -67,6 +67,7 @@
      <Compile Include="Assets\Script\AudioManager.cs" />
      <Compile Include="Assets\Script\CountDownTimer.cs" />
      <Compile Include="Assets\Script\MainMenu.cs" />
+     <Compile Include="Assets\Script\MoveLevel.cs" />
      <Compile Include="Assets\Script\PlayerFollow.cs" />
      <Compile Include="Assets\Script\PlayerOff.cs" />
      <Compile Include="Assets\Script\TransformPositions.cs" />
